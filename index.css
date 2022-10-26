@@ -2,10 +2,18 @@
     width: 20%;
 background-color:bisque;
 text-align: center;
-float: left;
-margin: 10px;
+
 }
 .item img{
     width: 100%;
     
+}
+.grand{
+    height: 100%;
+    
+    background-color: brown;
+
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
 }
